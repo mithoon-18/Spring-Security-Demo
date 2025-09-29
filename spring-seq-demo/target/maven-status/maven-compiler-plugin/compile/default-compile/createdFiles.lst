@@ -1,0 +1,9 @@
+com\msg\spring\_seq_demo\Controller\UserController.class
+com\msg\spring\_seq_demo\Service\MyUserDetailsService.class
+com\msg\spring\_seq_demo\Dao\UserRepo.class
+com\msg\spring\_seq_demo\model\User.class
+com\msg\spring\_seq_demo\Service\UserService.class
+com\msg\spring\_seq_demo\SpringSeqDemoApplication.class
+com\msg\spring\_seq_demo\Controller\HelloController.class
+com\msg\spring\_seq_demo\model\UserPrincipal.class
+com\msg\spring\_seq_demo\config\Securtyconfig.class
